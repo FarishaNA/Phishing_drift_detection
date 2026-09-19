@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+matplotlib
+joblib
+beautifulsoup4
+# scikit-learn must match the Colab version EXACTLY (yours: 1.6.1):
+#   pip install scikit-learn==1.6.1
+# No Streamlit, Flask or other web framework is needed: server.py uses only the Python standard library.
