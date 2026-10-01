@@ -1,0 +1,7 @@
+experiment,model,detector,TP,FP,FN,TN,flagged_years,true_drift_years
+mixed,RF,FeSAD weighted,5,1,1,0,6,6
+mixed,RF,Cosine centroid,6,1,0,0,7,6
+mixed,SVM,FeSAD weighted,4,0,2,1,4,6
+mixed,SVM,Cosine centroid,6,1,0,0,7,6
+mixed,NB,FeSAD weighted,5,0,2,0,5,7
+mixed,NB,Cosine centroid,7,0,0,0,7,7
