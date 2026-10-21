@@ -371,15 +371,4 @@ The front-end client layer.
 3. **Phishing Corpus Source:** The phishing emails are derived from the public Nazario corpus, which primarily captures bulk phishing rather than highly targeted spear-phishing campaigns.
 
 ---
-
-## 9. Academic Metadata
-
-- **Project Title:** PhishDrift: Feature-Drift Monitoring and Triggered Retraining for Phishing Email Classification
-- **Academic Program:** Master of Computer Applications (MCA) Final Project
-- **Institution:** Mar Athanasius College of Engineering, Kothamangalam
-- **Project Guide:** Prof. Manu John
-- **Project Team:**
-  - Farisha N A
-  - Sulfath P M
-  - Adithya P Ganesh
 - **Theoretical Basis:** Adapted from Fernando & Komninos (2026), *Evaluating and Combatting the Impact of Concept Drift on the Performance of Machine Learning-Based Phishing Detection Systems*, arXiv:2606.11471.
